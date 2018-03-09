@@ -1,0 +1,11 @@
+<%
+
+%>
+
+<%
+session("admin")=""
+session("rank")=""
+response.Write "<script language='javascript'>alert('您已成功注销登录')</script>"
+response.redirect "../index.asp"
+%> 
+
