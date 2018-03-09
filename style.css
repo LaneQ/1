@@ -1,0 +1,104 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+table {
+	font-family: "宋体";
+	font-size: 9pt;
+}
+.booktitle {
+	color: #FF0000;
+}
+a:link {
+	font-family: "宋体";
+	font-size: 9pt;
+	text-decoration: none;
+}
+a:hover {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #FF6600;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+.bookinfo {
+	color: #415373;
+}
+.shadow {
+	filter: DropShadow(Color=#B4B4B4, OffX=3, OffY=5, Positive=1);
+}
+.t1 {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #000000;
+}
+.page {
+	font-family: Webdings;
+}
+font {
+}
+form {
+	font-family: "宋体";
+	font-size: 9pt;
+	margin: 0px;
+}
+.t2 {
+	color: #FFFFFF;
+}
+.inputstyle {
+	border: 1px solid #999999;
+	font-family: "宋体";
+	font-size: 9pt;
+}
+.whitefont {
+	color: #FFFFFF;
+}
+.bluefont {
+	color: #448BBF;
+}
+.mmenutfont {
+	font-size: 11pt;
+	color: #FFCC33;
+	font-weight: normal;
+}
+input {
+	height:20;
+	font:9pt "宋体";
+	BORDER-BOTTOM: #cccccc 1px groove;
+	BORDER-RIGHT: #cccccc 1px groove;
+	BACKGROUND-COLOR: #eeeeee;
+}
+.dao {
+	font-family: "宋体";
+	font-size: 10pt;
+	color: #FFFFFF;
+	cursor: hand;
+PADDING-LEFT: 40px;
+}
+.daosub {
+	color: #FFCC00;
+	PADDING-LEFT: 40px;
+}
+.price2 {
+	color: #FF0000;
+}
+.price1 {
+	text-decoration: line-through;
+}
+.viprice {
+	color: #FF9900;
+}
+.redfont {
+	font-family: "宋体";
+	color: #FF0000;
+}
+.tiaofont {
+	font-size: 10pt;
+}
+.style1 {color: #FFFFFF}
+.table {font-family:Verdana;font-size:10px;color:#ffffff}
